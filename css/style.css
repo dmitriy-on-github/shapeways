@@ -917,7 +917,7 @@ body {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s; }
   ._link::after {
-    content: url("../../img/arrow-link_red.svg");
+    content: url("../img/arrow-link_red.svg");
     font-size: 10px;
     -webkit-transition: -webkit-transform 0.3s ease 0s;
     transition: -webkit-transform 0.3s ease 0s;
