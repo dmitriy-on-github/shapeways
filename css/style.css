@@ -485,7 +485,7 @@ h1, h2, h3, h4, h5, h6 {
     -ms-flex-align: center;
     align-items: center; }
     ._init .column-up__title::before {
-      content: url("../../img/arrow-down_wh_1.svg");
+      content: url("../img/arrow-down_wh_1.svg");
       font-size: 10px;
       -webkit-transition: -webkit-transform 0.3s ease 0s;
       transition: -webkit-transform 0.3s ease 0s;
